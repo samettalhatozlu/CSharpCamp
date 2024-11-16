@@ -1,0 +1,7 @@
+C:\Users\samet\OneDrive\Masaüstü\CSharpCamp\01_MainSubject\bin\Debug\01_MainSubject.exe.config
+C:\Users\samet\OneDrive\Masaüstü\CSharpCamp\01_MainSubject\bin\Debug\01_MainSubject.exe
+C:\Users\samet\OneDrive\Masaüstü\CSharpCamp\01_MainSubject\bin\Debug\01_MainSubject.pdb
+C:\Users\samet\OneDrive\Masaüstü\CSharpCamp\01_MainSubject\obj\Debug\01_MainSubjects.csproj.AssemblyReference.cache
+C:\Users\samet\OneDrive\Masaüstü\CSharpCamp\01_MainSubject\obj\Debug\01_MainSubjects.csproj.CoreCompileInputs.cache
+C:\Users\samet\OneDrive\Masaüstü\CSharpCamp\01_MainSubject\obj\Debug\01_MainSubject.exe
+C:\Users\samet\OneDrive\Masaüstü\CSharpCamp\01_MainSubject\obj\Debug\01_MainSubject.pdb
